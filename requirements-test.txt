@@ -1,0 +1,5 @@
+pytest
+pytest-django
+psycopg2-binary
+psycopg
+pytest-cov==4.1.0
